@@ -8,6 +8,3 @@ $ pip install stdiomask
 $ pip install simplejson 
 $ pip install futures 
 $ https://github.com/pajar-07/crack 
-$ cd crack
-$ git pull 
-$ python eliteprib.py
