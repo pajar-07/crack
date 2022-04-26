@@ -12,3 +12,4 @@ $ git clone https://github.com/pajar-07/crack
 $ cd carck
 $ git pull 
 $ python eliteprib.py
+ 
