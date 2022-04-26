@@ -1,4 +1,4 @@
-# crack
+
 pkg update & pkg upgrade 
 $ pkg install python 
 $ pkg install git 
@@ -8,8 +8,7 @@ $ pip install bs4
 $ pip install stdiomask 
 $ pip install simplejson 
 $ pip install futures 
-$ git clone https://github.com/melancans/melan 
-$ cd melan 
+$ git clone https://github.com/pajar-07/crack
+$ cd carck
 $ git pull 
-$ python melan.py
-
+$ python eliteprib.py
